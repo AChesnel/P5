@@ -1,0 +1,212 @@
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 97%;
+	background: linear-gradient(0.57turn, #512f2f, #1E0202, #8F3F3F);
+}
+
+#game-area {
+	min-height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+#mainJ1 {
+	margin-left: 50px;
+}
+
+#joueurs #ordinateur img {
+	max-width: 9%;
+	max-height: 9%;
+	border-radius: 10%;
+	margin-left: 15px;
+}
+
+#joueurs #joueur1 img {
+	max-width: 5%;
+	max-height: 5%;
+	border-radius: 10%;
+	margin-left: -50px;
+}
+
+#joueur1, #ordinateur {
+	display: none;
+	position: absolute;
+}
+
+#joueur1 {
+	bottom: 20px;
+}
+
+
+#pioche {
+	display: none;
+	position: absolute;
+	top: 102%;
+	left: 47%;
+	background-color:#275efe;
+	border-radius:28px;
+	border:1px solid #184bab;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+	padding:9px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #273166;
+}
+
+#stop {
+	display: none;
+	position: absolute;
+	top: 110%;
+	left: 47%;
+	background-color:#275efe;
+	border-radius:28px;
+	border:1px solid #184bab;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+	padding:9px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #273166;
+}
+
+#box-button {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	display: flex;
+	flex-direction: column;
+}
+
+.menu-buttons {
+	background-color:#275efe;
+	border-radius:28px;
+	border:1px solid #184bab;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #273166;
+	margin-bottom: 20px;
+}
+
+#form-login {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	display: flex;
+	flex-direction: column;
+	visibility: hidden;
+	border: 1px black ridge;
+	background-color: #e1e1e1;
+	height: 110px;
+	width: 160px;
+	padding-top: 20px;
+	border-radius: 8px;
+	border-color: grey;
+}
+
+.inputlogin {
+	width: 100px;
+	text-align: center;
+	margin: auto;
+}
+
+#password {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#bouton-connexion {
+	margin: auto;
+	width: 100px;
+}
+
+#croix-login {
+	position: fixed;
+	left: 175px;
+	top: -20px;
+	color: white;
+	cursor: pointer;
+}
+
+#form-newAccount {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	display: flex;
+	flex-direction: column;
+	visibility: hidden;
+	border: 1px black ridge;
+	background-color: #e1e1e1;
+	height: 200px;
+	width: 160px;
+	padding-top: 20px;
+	border-radius: 8px;
+	border-color: grey;
+}
+
+.inputNewAccount {
+	width: 100px;
+	text-align: center;
+	margin: auto;
+}
+
+#newPassword{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#newPassword2{
+	margin-bottom: 15px;
+}
+
+#bouton-newAccount{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#croix-new-Account {
+	position: fixed;
+	left: 175px;
+	top: -20px;
+	color: white;
+	cursor: pointer;
+}
+
+#table {
+	height: 82%;
+	width: 98%;
+	text-align: center;
+	position: absolute;
+	background-color: black;
+	border-bottom-left-radius: 500px;
+	border-bottom-right-radius: 500px;
+	display: none;
+	background: linear-gradient(0.57turn, #1e4008, #326212, #5C873F);
+	border: 3px white solid;
+}
+
+#hiddenCard {
+	border-radius: 10%;
+	position: fixed;
+	z-index: 1;
+	max-width: 9%;
+	display: none;
+	transform: translate(563%, 12%);
+}
+
+
+#scoreIA {
+	display: none;
+}

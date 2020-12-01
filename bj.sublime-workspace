@@ -1,0 +1,1120 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newAccount"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"CONT",
+				"CONTROLLER"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"for",
+				"formlogin"
+			],
+			[
+				"gif",
+				"gifLoad"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"playe",
+				"playerLoses"
+			],
+			[
+				"player",
+				"playerWins"
+			],
+			[
+				"pla",
+				"playerLoses"
+			],
+			[
+				"ori",
+				"ordinateur"
+			],
+			[
+				"ordi",
+				"ordinateur"
+			],
+			[
+				"text",
+				"textIA"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"name",
+				"nametext"
+			],
+			[
+				"suit",
+				"suitText"
+			],
+			[
+				"scor",
+				"scoreJ2"
+			],
+			[
+				"joueur",
+				"joueur1"
+			],
+			[
+				"p",
+				"paquet"
+			],
+			[
+				"divj",
+				"divJoueur1"
+			],
+			[
+				"button",
+				"buttonPiocheJ2"
+			],
+			[
+				"butt",
+				"buttonStopJ2"
+			],
+			[
+				"total",
+				"totalPoints"
+			],
+			[
+				"tot",
+				"totalPoints"
+			],
+			[
+				"score",
+				"scoreJ1"
+			],
+			[
+				"pioc",
+				"piocheServieJ2"
+			],
+			[
+				"pio",
+				"piocheServieJ2"
+			],
+			[
+				"pioche",
+				"piocheServieJ2"
+			],
+			[
+				"creat",
+				"creationDuPaquet"
+			],
+			[
+				"awes",
+				"awesomeCard"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"foot",
+				"footer-absolute"
+			],
+			[
+				"mentions",
+				"mentionsLegales"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"repo",
+				"responsive-deconnexion"
+			],
+			[
+				"logged",
+				"logged-responsive"
+			],
+			[
+				"me",
+				"menu-responsive"
+			],
+			[
+				"env",
+				"envoyerCommentaire"
+			],
+			[
+				"displ",
+				"displayLogin"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"comm",
+				"commentaires"
+			],
+			[
+				"is",
+				"isPostValid"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"create",
+				"createAccount"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"em",
+				"emailInscription"
+			],
+			[
+				"ide",
+				"identifiantInscription"
+			],
+			[
+				"inp",
+				"inputInscription"
+			],
+			[
+				"pop-",
+				"pop-up-background-login"
+			],
+			[
+				"clic",
+				"clicConnexion"
+			],
+			[
+				"pop",
+				"pop-up-background"
+			],
+			[
+				"pop-up",
+				"pop-up-background-login"
+			],
+			[
+				"nom",
+				"nombreLikeApresClic"
+			],
+			[
+				"barId",
+				"barIdLikes"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ba",
+				"barId"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"flash",
+				"flash-box-login-failed"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"bac",
+				"black"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"login",
+				"loginForm"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fe",
+				"fetchAll"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"spl_au",
+				"spl_autoload_register"
+			],
+			[
+				"s",
+				"_SESSION"
+			],
+			[
+				"fron",
+				"FrontendArticles"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"supp",
+				"supprimerCommentaireAdmin"
+			],
+			[
+				"Front",
+				"FrontendArticles"
+			],
+			[
+				"suppr",
+				"supprimerCommentaire"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"passw",
+				"password_verify"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"article",
+				"articlePrecedent"
+			],
+			[
+				"artil",
+				"articleActuel"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"pagea",
+				"pageActuelle"
+			],
+			[
+				"page",
+				"pageActuelle"
+			],
+			[
+				"Page",
+				"pageActuelle"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"form",
+				"formInscription"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"sign",
+				"Signaler"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"use",
+				"user_report"
+			],
+			[
+				"PARAM",
+				"PARAM_INT"
+			],
+			[
+				"comme",
+				"commentaire"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"comment",
+				"commentaire"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"man",
+				"managerCommentaire"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"crea",
+				"creation_date"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"exi",
+				"existant"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"interf",
+				"interfaceAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\t<div id=\"game-area\">\n\t\t<form action=\"index.php?action=login\" method=\"post\" id=\"form-login\">\n\t\t\t<input type=\"text\" name=\"identifiant\" id=\"identifiant\" placeholder=\"Identifiant\" required=\"required\" class=\"inputlogin\">\n\t\t\t<input type=\"password\" name=\"password\" id=\"password\" placeholder=\"Mot de passe\" required=\"required\"class=\"inputlogin\">\n\t\t\t<input type=\"submit\" id=\"bouton-connexion\" class=\"elementForm boutonEnvoyer\"></button>\n\t\t\t<i class=\"fas fa-times\" id=\"croix-login\"></i>\n\t\t</form>\n\t\t<form action=\"index.php?action=newAccount\" method=\"post\" id=\"form-newAccount\">\n\t\t\t<input type=\"text\" name=\"identifiant\" id=\"newIdentifiant\" placeholder=\"Identifiant\" required=\"required\" class=\"inputNewAccount\">\n\t\t\t<input type=\"password\" name=\"password\" id=\"newPassword\" placeholder=\"Mot de passe\" required=\"required\" class=\"inputNewAccount\">\n\t\t\t<input type=\"password\" name=\"password2\" id=\"newPassword2\" placeholder=\"Mot de passe\" required=\"required\" class=\"inputNewAccount\">\n\t\t\t<input type=\"email\" name=\"email\" id=\"newMail\" placeholder=\"Email\" required=\"required\" class=\"inputNewAccount\">\n\t\t\t<input type=\"submit\" id=\"bouton-newAccount\" class=\"elementForm boutonEnvoyer\"></button>\n\t\t\t<i class=\"fas fa-times\" id=\"croix-new-Account\"></i>\n\t\t</form>\n\t\t<img src=\"assets/img/Gray_back.jpg\" id='hiddenCard'/>\n\t\t<div id=\"box-button\">\n\t\t\t<?php if (isset ($_SESSION['logged'])) :?>\n\t\t\t\t Connecté en tant que : \n\t\t\t\t <a href=\"http://localhost/js-bj/index.php?action=logOff\" id=\"log-off\" class=\"menu-buttons\">Se déconnecter</a>\n\t\t\t<?php else: ?>\n\t\t\t<button id=\"login\" class=\"menu-buttons\">Se connecter</button>\n\t\t\t<button id=\"nouveau-compte\" class=\"menu-buttons\">Créer un compte</button>\n\t\t\t<?php endif; ?>\n\t\t\t<button id=\"nouvelle-partie\" class=\"menu-buttons\">Nouvelle Partie</button>\n\t\t</div>\n\t\t<div id=\"table\">\n\t\t\t<div id=\"joueurs\">\n\t\t\t\t<button id=\"pioche\">Piocher</button>\n\t\t\t\t<button id=\"stop\">Stop</button>\n\t\t\t\t<div id=\"joueur1\">\n\t\t\t\t\t<span id=\"textJ1\"></span> <br />\n\t\t\t\t\t<span id=\"mainJ1\"></span><br />\n\t\t\t\t\t<span id=\"scoreJ1\"></span>\n\t\t\n\t\t\t\t</div>\n\t\t\t\t<div id=\"center\"></div>\n\t\t\t\t<div id=\"ordinateur\">\n\t\t\t\t\t<span id=\"textIA\">Ordinateur</span> <br />\n\t\t\t\t\t<span id=\"mainIA\"></span><br />\n\t\t\t\t\t<span id=\"scoreIA\"></span>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>",
+			"file": "view/game.php",
+			"file_size": 2287,
+			"file_write_time": 132509749489563365,
+			"settings":
+			{
+				"buffer_size": 2241,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// ------- Variables de jeu ------ //\nlet buttonPioche = document.getElementById('pioche');\nlet buttonStop = document.getElementById('stop');\nlet buttonNouvellePartie = document.getElementById('nouvelle-partie');\nlet boxbutton = document.getElementById('box-button');\nlet divJoueur1 = document.getElementById('joueur1');\nlet divOrdinateur = document.getElementById('ordinateur');\nlet textJ1 = document.getElementById('textJ1');\nlet textIA = document.getElementById('textIA');\nlet hiddenCard = document.getElementById('hiddenCard');\nlet scoreIA = document.getElementById('scoreIA');\nlet table = document.getElementById('table');\nlet paquet;\n\n// ------- Variables de login -------- //\nlet login = document.getElementById('login');\nlet formlogin = document.getElementById('form-login');\nlet croixlogin = document.getElementById('croix-login');\nlet identifiant = document.getElementById('identifiant');\nlet password = document.getElementById('password');\n\n// -------- Variables de création de compte ------ //\nlet newAccount = document.getElementById('nouveau-compte');\nlet formNewAccount = document.getElementById('form-newAccount');\nlet croixNewAccount = document.getElementById('croix-new-Account');\nlet identifiantNewAccount = document.getElementById('newIdentifiant');\nlet passwordNewAccount = document.getElementById('newPassword');\nlet passwordNewAccount2 = document.getElementById('newPassword2');\nlet mailNewAccount = document.getElementById('newMail');\n\n\nlet joueur1 = new Joueur('Joe', 'J1');\n\nbuttonNouvellePartie.addEventListener('click', function() {\n\tbuttonPioche.style.display = 'block';\n\tbuttonStop.style.display = 'block';\n\tboxbutton.style.display = \"none\";\n\tdivJoueur1.style.display = 'block';\n\tdivOrdinateur.style.display = 'block';\n\thiddenCard.style.display = 'block';\n\ttable.style.display = 'block';\n\n\t\n\tordinateur = new Joueur('Ordinateur', 'IA');\n\tpaquet = new Paquet();\n\tgame = new Game(joueur1, ordinateur, paquet);\n\tgame.initGame();\t\n});\n\nbuttonPioche.addEventListener('click', function() {\n\tgame.pioche();\n});\n\nbuttonStop.addEventListener('click', function() {\n\tgame.stop();\n});\n\nlogin.addEventListener('click', function() {\n\tboxbutton.style.display = \"none\";\n\tformlogin.style.visibility = \"visible\";\n});\n\ncroixlogin.addEventListener('click', function() {\n\tformlogin.style.visibility = \"hidden\";\n\tboxbutton.style.display = \"inline-flex\";\n\tidentifiant.value = '';\n\tpassword.value = '';\n});\n\nnewAccount.addEventListener('click', function() {\n\tboxbutton.style.display = \"none\";\n\tformNewAccount.style.visibility = \"visible\";\n});\n\ncroixNewAccount.addEventListener('click', function() {\n\tformNewAccount.style.visibility = \"hidden\";\n\tboxbutton.style.display = \"inline-flex\";\n\tidentifiantNewAccount.value = '';\n\tpasswordNewAccount.value = '';\n\tpasswordNewAccount2.value = '';\n\tmailNewAccount.value = '';\n});",
+			"file": "assets/js/main.js",
+			"file_size": 2761,
+			"file_write_time": 132509754622042038,
+			"settings":
+			{
+				"buffer_size": 2823,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n\nclass Game {\n\t\n\tpublic function showGame()\n\t{\n\t\t$myView = new View('game');\n\t\t$myView->render();\n\n\t}\n\n\tpublic function login()\n\t{\n\t\tif ($_POST['identifiant'] && $_POST['password']) {\n\n\t\t\t$identifiant = $_POST['identifiant'];\n\t\t\t$password    =\t$_POST['password'];\n\n\t\t\t$manager = new UserManager();\n\t\t\t\n\n\t\t\tif($user = $manager->getUserByUsername($identifiant)) {\n\t \n\t\t\t\tif (password_verify($password, $user['password'])) {\n\t\t\t\t\t$_SESSION['logged'] = true;\n\t\t\t\t\t$_SESSION['username'] = $user['username'];\n\t\t\t\t\theader('location:http://localhost/js-bj/index.php'); \n\t\t\t\t} else {\n\t\t\t\t\techo \"error1\";\n\t\t\t\t}\n\t\t\t} else {\n\t\t\t\t\techo \"error2\";\n\n\t\t\t}\n\t\t}\n\t}\n\n\tpublic function logOff() \n\t{\n\t\tsession_unset();\n\t\theader(\"location: index.php\");\n\t}\n\n\tpublic function newAccount()\n\t{\n\t\t$manager = new UserManager();\n\n\t\t$isPostValid = $manager->newAccountPostDataCheck($_POST);\n\n\t\tif($isPostValid == 1){\n\t\t\t$identifiant = ($_POST['identifiant']);\n\t\t\t$password    = password_hash($_POST['password'], PASSWORD_BCRYPT);\n\t\t\t$email       = ($_POST['email']);\n\n\t\t\t$compte = $manager->newAccount($identifiant, $password, $email);\n\t\t\theader('location:http://localhost/js-bj/index.php');\n\t\t} else {\n\t\t\theader('location:http://localhost/js-bj/index.php'); \n\t\t}\n\t}\n\n\tpublic function showBestScores()\n\t{\n\t\t//autre vue\n\t}\n}",
+			"file": "controller/Game.php",
+			"file_size": 1302,
+			"file_write_time": 132509691314960512,
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php\t",
+				"Set Syntax: PHP"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java\t",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ht\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja\t",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"defaul",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"Sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql\t",
+				"Set Syntax: SQL"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 279.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"%APPDATA%\\Sublime Text 3\\Packages\\",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/JS-bj",
+		"/C/wamp64/www/JS-bj/assets",
+		"/C/wamp64/www/JS-bj/assets/css",
+		"/C/wamp64/www/JS-bj/assets/js",
+		"/C/wamp64/www/JS-bj/classes",
+		"/C/wamp64/www/JS-bj/controller",
+		"/C/wamp64/www/JS-bj/model",
+		"/C/wamp64/www/JS-bj/view"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/JS-bj/controller/Game.php",
+		"/C/wamp64/www/JS-bj/model/userManager.php",
+		"/C/wamp64/www/projet4/model/userManager.php",
+		"/C/wamp64/www/projet4/controller/userFrontend.php",
+		"/C/wamp64/www/apiprojet5/model/userManager.php",
+		"/C/wamp64/www/apiprojet5/controller/frontend.php",
+		"/C/wamp64/www/JS-bj/classes/routeur.php",
+		"/C/wamp64/www/JS-bj/view/game.php",
+		"/C/wamp64/www/JS-bj/index.php",
+		"/C/wamp64/www/JS-bj/assets/css/style.css",
+		"/C/wamp64/www/JS-bj/config.php",
+		"/C/wamp64/www/JS-bj/assets/js/main.js",
+		"/C/wamp64/www/projet4/view/frontend/header.php",
+		"/C/wamp64/www/JS-bj/model/bddManager.php",
+		"/C/wamp64/www/JS-bj/model/bbdManager.php",
+		"/C/wamp64/www/projet4/view/frontend/connexion.php",
+		"/C/wamp64/www/apiprojet5/model/bddManager.php",
+		"/C/wamp64/www/apiprojet5/config.php",
+		"/C/wamp64/www/apiprojet5/app/router.php",
+		"/C/wamp64/www/projet4/view/frontend/home.php",
+		"/C/wamp64/www/JS-bj/controller/Login.php",
+		"/C/wamp64/www/projet5/assets/js/account.js",
+		"/C/wamp64/www/exo/index.html",
+		"/C/wamp64/www/JS-bj/assets/js/joueur.js",
+		"/C/wamp64/www/JS-bj/view/_gabarit.php",
+		"/C/wamp64/www/JS-bj/classes/view.php",
+		"/C/wamp64/www/JS-bj/.htacces",
+		"/C/wamp64/www/JS-bj/view/_header.php",
+		"/C/wamp64/www/JS-bj/assets/js/game.js",
+		"/C/wamp64/www/JS-bj/view/login.php",
+		"/C/wamp64/www/JS-bj/controller/home.php",
+		"/C/wamp64/www/JS-bj/view/_footer.php",
+		"/C/wamp64/www/JS-bj/assets/js/carte.js",
+		"/C/wamp64/www/JS-bj/controller/index.php",
+		"/C/wamp64/www/projet4/index.php",
+		"/C/wamp64/www/testmysql.php",
+		"/C/wamp64/www/add_vhost.php",
+		"/C/wamp64/www/tests/index.php",
+		"/C/wamp64/www/apiprojet5/index.php",
+		"/C/wamp64/www/JS-bj/routes.php",
+		"/C/Users/Adrien/Desktop/Codes/Projet 1/index.html",
+		"/C/wamp64/www/projet4/view/frontend/pageArticles.php",
+		"/C/wamp64/www/projet4/view/frontend/articleSupprimeConfirme.php",
+		"/C/wamp64/www/projet4/controller/articlesFrontend.php",
+		"/C/wamp64/www/projet5/index.php",
+		"/C/wamp64/www/projet4/routes.php",
+		"/C/wamp64/www/projet4/model/articleManager.php",
+		"/C/wamp64/www/JS-bj/index.html",
+		"/C/wamp64/www/JS-bj/assets/js/paquet.js",
+		"/C/Users/Adrien/Desktop/Codes/Projet 3/javascript/base.js",
+		"/C/wamp64/www/JS-bj/assets/js/save.js",
+		"/C/wamp64/www/sim/assets/js/sim.js",
+		"/C/wamp64/www/js-turn/assets/js/turn.js",
+		"/C/wamp64/www/js-turn/index.html",
+		"/C/wamp64/www/js-turn/assets/css/style.css",
+		"/C/wamp64/www/js-turn/assets/js/main.js",
+		"/C/wamp64/www/sim/index.html",
+		"/C/wamp64/www/sim/javascript/sim.js",
+		"/C/wamp64/www/sim/javascript/1.js",
+		"/C/wamp64/www/JS-bj/assets/js/cartes.js",
+		"/C/wamp64/www/JS-demineur/assets/js/main.js",
+		"/C/wamp64/www/JS-demineur/assets/css/style.css",
+		"/C/wamp64/www/JS-demineur/index.html",
+		"/C/wamp64/www/projet5/assets/js/click.js",
+		"/C/wamp64/www/JS-bj/assets/js/main",
+		"/C/wamp64/www/projet5/assets/js/login.js",
+		"/C/wamp64/www/projet5/assets/js/map.js",
+		"/C/wamp64/www/apiprojet5/model/tokenManager.php",
+		"/C/wamp64/www/apiprojet5/model/barManager.php",
+		"/C/wamp64/www/projet5/assets/js/position.js",
+		"/C/wamp64/www/apiprojet5/model/userFunctionsManager.php",
+		"/C/wamp64/www/projet5/assets/js/mentionsLegales.js",
+		"/C/wamp64/www/projet5/assets/css/style.css",
+		"/C/wamp64/www/projet5/assets/js/main.js",
+		"/C/Users/Adrien/Documents/Electronic Arts/zMods/ww_cas_parts.json",
+		"/C/wamp64/www/apiprojet5/index2 (2).php",
+		"/C/wamp64/www/apiprojet5/routes.php",
+		"/C/wamp64/www/projet5/assets/js/test.js",
+		"/C/wamp64/www/projet5/assets/js/comments.js",
+		"/C/Users/Adrien/Downloads/Reclamation.docx",
+		"/C/Users/Adrien/Desktop/Codes/Projet 1/style.css",
+		"/C/wamp64/www/projet4/view/frontend/article.php",
+		"/C/Users/Adrien/Desktop/Codes/Projet 3/index.html",
+		"/C/wamp64/www/projet5/assets/js/cluster.js",
+		"/C/wamp64/www/projet4/view/frontend/nouveauCompte.php",
+		"/C/wamp64/www/projet4/assets/css/style.css",
+		"/C/Users/Adrien/Desktop/Codes/Projet 3/javascript/cluster.js",
+		"/C/wamp64/www/projet5/header.php",
+		"/C/Users/Adrien/Desktop/A-enemies.js",
+		"/C/Users/Adrien/Desktop/Codes/Projet 3/javascript/click.js",
+		"/C/Users/Adrien/Desktop/Codes/Projet 3/javascript/reservation.js",
+		"/C/Users/Adrien/Desktop/room_red.txt",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/VE/CbDE Ep3 fix1/CbDE Ep3 fix1/Captured by Dark Elves/www/save/file1.rpgsave",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/MF/GLeague/data/Map002.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/MF/GoddessesLeague/data/System.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/MF/GoddessesLeague/data/States.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/MF/GoddessesLeague/data/Skills.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/MF/GoddessesLeague/data/MapInfos.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/MF/GoddessesLeague/data/Actors.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/MF/GoddessesLeague/data/Map002.json",
+		"/C/wamp64/www/apiprojet5/tokenManager.php",
+		"/C/wamp64/www/apiprojet5/model/apiManager.php",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/VE/The_Prison_020/The Prison 0.2/www/js/plugins/MOG_Footsteps.js",
+		"/C/wamp64/www/projet5/view/frontend/header.php",
+		"/C/wamp64/www/projet5/view/frontend/home.php",
+		"/C/wamp64/www/projet5/controller/frontend.php",
+		"/C/Users/Adrien/Desktop/Codes/Projet 1/script.js",
+		"/C/wamp64/www/projet5/view/frontend/connexion.php",
+		"/C/wamp64/www/projet5/model/projetManager.php",
+		"/C/wamp64/www/projet5/bbd.php",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/VE/Captured_by_Dark_Elves_Ep_2_final_fix/Captured by Dark Elves/www/data/System.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/VE/Captured_by_Dark_Elves_Ep_2_final_fix/Captured by Dark Elves/www/data/Skills.json",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/VE/Captured_by_Dark_Elves_Ep_2_final_fix/Captured by Dark Elves/www/save/file1.rpgsave",
+		"/C/wamp64/www/apiprojet5/router.php",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/VE/Harshville-1-1-4-Windows-Patch/Harshville/www/bitch3.json",
+		"/C/wamp64/www/projet5/routes.php",
+		"/C/Users/Adrien/Downloads/Nouveau dossier/VE/Harshville-1-0-7patched/Harshville/www/cyberPunkGirl.json",
+		"/C/Users/Adrien/Downloads/main_2.js",
+		"/C/wamp64/www/apiprojet5/index2.php",
+		"/C/wamp64/www/apiprojet5/model/frontend.php",
+		"/C/wamp64/www/projet5/rest.php",
+		"/C/wamp64/www/projet4/view/frontend/ajouterArticle.php",
+		"/C/wamp64/www/hax/index.php",
+		"/C/wamp64/www/projet4/view/frontend/gestionCommentaires.php",
+		"/C/wamp64/www/projet4/view/frontend/espaceAdmin.php",
+		"/C/wamp64/www/projet4/view/frontend/gestionArticles.php",
+		"/C/wamp64/www/projet4/view/frontend/gestionUtilisateurs.php",
+		"/C/wamp64/www/projet4/view/frontend/modifierArticle.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"placeholder",
+			"\t\t\t\t\n",
+			"hiddenc",
+			"hidde",
+			"mainj1",
+			"hiddenc",
+			"hidden",
+			"img",
+			"hiddencard",
+			"hidden",
+			"hiddencard",
+			"hidden",
+			"#joueurs",
+			"font-family:Arial;",
+			"3a1bd0",
+			"2f6627",
+			"18ab29",
+			"#44c767",
+			"gif",
+			"gid",
+			"0",
+			"scoreIA",
+			"gifLoad",
+			"finde",
+			"main",
+			"valeur",
+			"main",
+			"J2",
+			"joueur2",
+			"vordinateur",
+			"joueur2",
+			"this"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "view/game.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1389,
+								1389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2319,
+								2319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controller/Game.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1292,
+								1292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bj.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			],
+			[
+				"php",
+				"C:\\wamp64\\www\\projet4\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
